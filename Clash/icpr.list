@@ -1,6 +1,6 @@
 # icpr
+#DOMAIN,gateway.fe.apple-dns.net
+#DOMAIN,canary.mask.apple-dns.net
+#DOMAIN,mask-t.apple-dns.net
 DOMAIN,mask-api.icloud.com
-DOMAIN,gateway.fe.apple-dns.net
-DOMAIN,mask-t.apple-dns.net
-DOMAIN,canary.mask.apple-dns.net
-DOMAIN,mask-t.apple-dns.net
+DOMAIN,apple-dns.net
