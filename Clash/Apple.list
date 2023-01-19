@@ -23,6 +23,8 @@ DOMAIN,apple-dns.net
 DOMAIN,me.apple-dns.net
 DOMAIN,gateway.fe.apple-dns.net
 DOMAIN,fmfmobile.fe.apple-dns.net
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,icloud.com.cn
