@@ -14,6 +14,14 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN,gateway.fe.apple-dns.net
+DOMAIN,canary.mask.apple-dns.net
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,apple-dns.net
+DOMAIN,me.apple-dns.net
+DOMAIN,gateway.fe.apple-dns.net
+DOMAIN,fmfmobile.fe.apple-dns.net
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,itunes.com
