@@ -1,11 +1,12 @@
 #Akamai
-172.225.0.0/16
-172.224.0.0/16
-172.226.0.0/16
+IP-CIDR,172.225.0.0/16,no-resolve
+IP-CIDR,172.224.0.0/16,no-resolveno-resolve
+IP-CIDR,172.226.0.0/16,no-resolveno-resolve
 
 #cloudflare
-104.28.0.0/16
+IP-CIDR,104.28.0.0/16,no-resolve
 
 #Fastly
-140.248.0.0/16
-146.75.0.0/16
+IP-CIDR,140.248.0.0/16,no-resolve
+IP-CIDR,146.75.0.0/16,no-resolve
+
