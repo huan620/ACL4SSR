@@ -22,6 +22,7 @@ DOMAIN,mask-api.icloud.com
 DOMAIN,apple-dns.net
 DOMAIN,me.apple-dns.net
 DOMAIN,gateway.fe.apple-dns.net
+DOMAIN,edge-038.hktko1.ce.apple-dns.net
 DOMAIN,fmfmobile.fe.apple-dns.net
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
