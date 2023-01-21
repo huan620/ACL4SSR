@@ -15,15 +15,6 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,apple-dns.net
-DOMAIN,gateway.fe.apple-dns.net
-DOMAIN,canary.mask.apple-dns.net
-DOMAIN,mask-t.apple-dns.net
-DOMAIN,mask-api.icloud.com
-DOMAIN,apple-dns.net
-DOMAIN,me.apple-dns.net
-DOMAIN,gateway.fe.apple-dns.net
-DOMAIN,edge-038.hktko1.ce.apple-dns.net
-DOMAIN,fmfmobile.fe.apple-dns.net
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,icloud.com
@@ -33,9 +24,6 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mail.icloud.com
 DOMAIN-SUFFIX,mail.me.com
-DOMAIN,mask-api.fe.apple-dns.net
-DOMAIN,gateway.fe.apple-dns.net
-DOMAIN,gs-loc.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
